@@ -1,7 +1,6 @@
 # BondingYieldFarm
 
-**Bonding Yield Farm** is a decentralized application (dApp) that enables users to stake ERC20 tokens, earn dynamic rewards based on bonding curve principles, and manage their staked liquidity. This project also has a Solana version written in Rust using the Anchor framework, and it has been translated into an Ethereum-based Solidity implementation. Below, we’ll explore the project, its features, and the key differences between the Solana and Ethereum versions. The project was developed in Remix IDE.
-
+**Bonding Yield Farm** is a decentralized application (dApp) that enables users to stake ERC20 tokens, earn dynamic rewards based on bonding curve principles, and manage their staked liquidity. This project also has a Solana version written in Rust using the Anchor framework, and it has been translated into an Ethereum-based Solidity implementation. This project was developed in Remix IDE. Below, we’ll explore the project, its features, and the key differences between the Solana and Ethereum versions.
 
 ## Features
 
